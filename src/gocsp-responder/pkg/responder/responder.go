@@ -16,7 +16,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"gocsp-responder/crypto/ocsp"
+	"gocsp-responder/pkg/crypto/ocsp"
 	"io/ioutil"
 	"log"
 	"net/http"

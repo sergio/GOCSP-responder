@@ -5,7 +5,7 @@ package main
 
 import (
 	"flag"
-	"gocsp-responder/responder"
+	"gocsp-responder/pkg/responder"
 )
 
 func main() {
